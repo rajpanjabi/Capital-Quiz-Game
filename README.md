@@ -24,7 +24,7 @@ These instructions will guide you through setting up the project on your local m
 
 1. **Clone the repository:**
   
-   - git clone https://github.com/your-username/capital-city-quiz.git
+   - git clone https://github.com/rajpanjabi/capital-city-quiz.git
    - cd capital-city-quiz
 ### Install dependencies:
 
